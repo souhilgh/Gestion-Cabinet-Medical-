@@ -30,10 +30,16 @@
 ## Configuration :
 Veuillez suivre ces etapes pour faire fonctionner le programme correctement :
 
-## Téléchargement les fichier .jar
+## 1.Téléchargement des fichier .jar
+Vous pouvez télécharger le fichier "ojdbc11-23.3.0.23.0.9.jar" et "rs2xml_1.jar" en suivant ces etapes :
 
-Vous pouvez télécharger le fichier `.jar` nécessaire [ici](libs/ojdbc11-23.3.0.23.0.9.jar).
-Vous pouvez télécharger le fichier2 `.jar` nécessaire [ici](libs/rs2xml_1.jar).
+-- Naviguez dans le dépôt jusqu'au fichiers `.jar`.
+-- Cliquez sur les fichiers `.jar` pour l'afficher dans GitHub.
+-- Cliquez sur le bouton "Raw" pour telecharger les fichier brut.
+
+## 2.Eclipse :
+ouvrire le projet dans eclipse et coller les deux fichiers telecharger dans project\properties\javabuildpath\libraries comme suit :
+
 
 
 
