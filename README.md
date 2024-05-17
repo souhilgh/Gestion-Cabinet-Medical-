@@ -30,3 +30,5 @@
 ## Configuration :
 Veuillez suivre ces etapes pour faire fonctionner le programme correctement :
 
+- premierement ouvrire le projet dans vscode aller a project\properties\javabuildpath\libraries et coller ce fichier 
+
