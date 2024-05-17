@@ -46,7 +46,7 @@ Allez dans oracle et cree un workspace et cree les table de la base de donnees q
 
 ## 4.dernière étape :
 allez vers `main` exactement vers try et modifier 'rachid' 'rachid' par le workspace que ta créé  
-
+![Screenshot 2024-05-17 163002](https://github.com/souhilgh/Gestion-Cabinet-Medical-/assets/118906589/6267769f-1d47-4113-8b13-f3770c58cb81)
 
 
 
