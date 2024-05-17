@@ -32,8 +32,8 @@ Veuillez suivre ces etapes pour faire fonctionner le programme correctement :
 
 ## Téléchargement les fichier .jar
 
-Vous pouvez télécharger le fichier `.jar` nécessaire [ici](libs/nom_du_fichier.jar).
-Vous pouvez télécharger le fichier2 `.jar` nécessaire [ici](libs/nom_du_fichier.jar).
+Vous pouvez télécharger le fichier `.jar` nécessaire [ici](libs/ojdbc11-23.3.0.23.0.9.jar).
+Vous pouvez télécharger le fichier2 `.jar` nécessaire [ici](libs/rs2xml_1.jar).
 
 
 
