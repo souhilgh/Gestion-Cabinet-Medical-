@@ -1,19 +1,22 @@
-## Getting Started
+## Gestion Cabinet Medical
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## This project was made by the following team:
 
-## Folder Structure
+- Team leader : GHERBI SOUHIL 
+- Concepteur : BELIAMINE YOUCEF 
+- devlopeur : DIFFALLAH RACHID 
+- Redacteur : CHAHBOUNE ADEL
 
-The workspace contains two folders by default, where:
+## Les fonctionnalites :
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- Gestion des rendez-vous 
+- Gestion de consultation 
+- Gestion des ordonnances 
+- Gestion des certificats medicales
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## L'interface : 
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-"# Gestion-Cabinet-Medical-" 
+## Configuration :
+Veuillez suivre ces etapes pour faire fonctionner le programme correctement :
