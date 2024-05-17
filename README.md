@@ -30,5 +30,10 @@
 ## Configuration :
 Veuillez suivre ces etapes pour faire fonctionner le programme correctement :
 
-- premierement ouvrire le projet dans vscode aller a project\properties\javabuildpath\libraries et coller ce fichier 
+## Téléchargement les fichier .jar
+
+Vous pouvez télécharger le fichier `.jar` nécessaire [ici](libs/nom_du_fichier.jar).
+Vous pouvez télécharger le fichier2 `.jar` nécessaire [ici](libs/nom_du_fichier.jar).
+
+
 
