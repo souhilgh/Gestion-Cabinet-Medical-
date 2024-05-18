@@ -34,7 +34,9 @@ Veuillez suivre ces étapes pour faire fonctionner le programme correctement :
 Vous pouvez télécharger le fichier "ojdbc11-23.3.0.23.0.9.jar" et "rs2xml_1.jar" en suivant ces étapes :
 
 -- Naviguez dans le dépôt jusqu'au fichiers `.jar`.
+
 -- Cliquez sur les fichiers `.jar` pour l'afficher dans GitHub.
+
 -- Cliquez sur le bouton "Raw" pour telecharger les fichier brut.
 
 ## 2.Eclipse :
@@ -42,7 +44,7 @@ ouvrire le projet dans eclipse et coller les deux fichiers telecharger dans proj
 ![Screenshot 2024-05-17 162600](https://github.com/souhilgh/Gestion-Cabinet-Medical-/assets/118906589/16edb9c6-a781-4969-b9f7-63b3767cabbd)
 
 ## 3.creation d'un workspace :
-Allez dans oracle et cree un workspace et cree les table de la base de donnees qui se trouve dans le dépôt exactement dans database\database.sql
+Allez dans oracle v11 et cree un workspace et cree les table de la base de donnees qui se trouve dans le dépôt exactement dans database\database.sql
 
 ## 4.dernière étape :
 allez vers `main` exactement vers try et modifier 'rachid' 'rachid' par le workspace que ta créé  
